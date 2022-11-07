@@ -25,7 +25,7 @@ function subtract(number1, number2) {
 }
 
 function divide(number1, number2) {
-    return number1 / 0
+    return number1 / number2
 }
 
 function power(base, power) {
@@ -46,7 +46,7 @@ function modolo(number1, number2) {
 }
 
 function check_odd_number(number) {
-    if (number % 2 != 0) {
+    if (number % 2 = 0) {
         return true
     }
     return false
