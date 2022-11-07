@@ -1,0 +1,22 @@
+{
+  "name": "AhlamAlharbi",
+  "version": "1.0.0",
+  "description": "Demo for using Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colbyfayock/demo-github-actions.git"
+  },
+  "author": "Ahlam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colbyfayock/demo-github-actions/issues"
+  },
+  "homepage": "https://github.com/colbyfayock/demo-github-actions#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
